@@ -1,0 +1,247 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+
+}
+.header_section{
+
+width: 70%;
+
+margin-left: 15%;
+
+overflow: hidden;
+}
+.Logo{
+
+width: 20%;
+
+float: left;
+
+margin: 16px 0px;
+}
+nav{
+
+width: 57%;
+
+float: left;
+
+margin: 10px;
+}
+nav ul{
+
+list-style: none;
+
+float: left;
+
+font-size: 15px;
+
+margin: 20px 0px;
+
+font-weight: 900;
+}
+nav ul li{
+
+float: left;
+}
+nav ul li a{
+
+text-decoration: none;
+
+padding-right: 40px;
+
+color: #302D47;
+}
+.header_btn{
+    
+float: right;
+    
+padding: 15px 20px;
+    
+background: #FF6162;
+    
+color: white;
+    
+font-weight: 700;
+    
+margin: 15px 0px;
+    
+border-radius: 5px;
+    
+border: none;
+    
+width: 20%;
+}
+.Content_Section{
+
+overflow: hidden;
+
+width: 70%;
+
+margin-left: 15%;
+
+padding: 80px 0px;
+}
+.Left_Content{
+
+width: 44%;
+
+float: left;
+}
+.Left_Content h1{
+
+font-size: 35px;
+
+color: #20203D;
+}
+.Left_Content p{
+
+color: #bacddc;
+}
+.Right_Content{
+
+width: 31%;
+
+float: right;
+}
+.Right_Content img{
+    
+width: 280px;
+}
+.heading_Content {
+    text-align: center;
+    margin-top: 120px;
+}
+
+.heading_Content p {
+    padding: 20px 0px;
+    font-style: italic;
+    color: #898BAF;
+    font-size: 15px;
+}
+
+.heading_Content h1 {
+    font-size: 40px;
+}
+.Demo_Section {
+    width: 90%;
+    margin-left: 5%;
+    overflow: hidden;
+    margin-top: 20px;
+    margin-bottom: 200px;
+}
+
+.Demo_one {
+    width: 21%;
+    float: left;
+}
+
+.Demo_two {
+    width: 21%;
+    float: left;
+    margin-left: 6%;
+}
+
+.Demo_three {
+    width: 21%;
+    float: left;
+    margin-left: 3%;
+}
+
+.Demo_four {
+    width: 21%;
+    float: right;
+}
+.Head_Features {
+    text-align: center;
+}
+
+.Head_Features h1 {
+    color: #29263D;
+    font-size: 35px;
+}
+
+.Head_Features p {
+    font-style: italic;
+    font-size: 18px;
+    padding-top: 10px;
+    color: #7C8DB9;
+    padding-bottom: 30px;
+}
+.Features_Section {
+    overflow: hidden;
+    margin-bottom: 100px;
+}
+
+.Features_Box {
+    width: 70%;
+    margin-left: 15%;
+    overflow: hidden;
+}
+
+.Feature_box1 {overflow: hidden;padding: 9px 0px;}
+
+.box1 {
+    background: #F5F5F5;
+    width: 30%;
+    padding: 20px 10px;
+    float: left;
+    text-align: center;
+}
+
+.box2 {
+    background: #F5F5F5;
+    width: 30%;
+    float: left;
+    margin-left: 14px;
+    text-align: center;
+    padding: 20px 10px;
+    padding-bottom: 40px;
+}
+
+.box3 {
+    background: #F5F5F5;
+    width: 30%;
+    float: right;
+    text-align: center;
+    padding: 20px 10px;
+    padding-bottom: 40px;
+}
+.box1 i {
+}
+
+i.fab.fa-intercom {
+    font-size: 45px;
+    color: #FF6B6C;
+    padding: 10px 0px;
+}
+
+.box1 p {
+    padding: 10px 0px;
+}
+footer {
+    background: #292640;
+    color: #FFFFFF;
+    text-align: center;
+    height: 263px;
+}
+.footer_section h1{
+    
+font-size: 45px;
+    
+margin-top: 15px;
+}
+.btn {
+    width: 213px;
+    padding: 20px 20px;
+    color: #FFFFFF;
+    background: #FF6B6C;
+    font-weight: 700;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+}
+
+.footer_section {
+    padding: 14px 0px;
+}
